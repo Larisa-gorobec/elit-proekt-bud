@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "Главная",
+    "about": "О компании",
+    "services": "Услуги",
+    "licences": "Лицензия",
+    "partners": "Партнеры",
+    "objects": "Объекты",
+    "contacts": "Контакты"
+  },
+  "slider_text": "Текст-девиз компании",
+  "request": {
+    "name": "Ваше имя",
+    "phone": "Ваш номер",
+    "text": "Заказать звонок:",
+    "button": "Отправить",
+    "question": "Интересующий вопрос"
+  },
+  "home": {
+    "welcome": "Добро пожаловать!"
+  },
+  "services_all": "Все услуги",
+  "clients_title": "Наши клиенты",
+  "about_title": "О компании",
+  "services_title": "Услуги",
+  "licences_title": "Лицензия",
+  "partners__title": "Партнеры",
+  "objects__title": "Объекты",
+  "contacts": {
+    "title": "Контакты",
+    "address": "Юридический адресс",
+    "phone_first": "По вопросам строительства и реконструкции",
+    "phone_second": "По вопросам аренды техники",
+    "phone_third": "По вопросам ремонта помещений"
+  },
+  "service_alef_name": "Аренда строительной техники"
+}

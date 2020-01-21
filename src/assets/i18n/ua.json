@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "home": "Головна",
+    "about": "Про компанiю",
+    "services": "Послуги",
+    "licences": "Лiцензiя",
+    "partners": "Партнери",
+    "objects": "Об'єкти",
+    "contacts": "Контакти"
+  },
+  "slider_text": "Текст-девiз компанiї",
+  "request": {
+    "name": "Ваше ім'я",
+    "phone": "Ваш номер",
+    "text": "Замовити дзвiнок:",
+    "button": "Вiдправити",
+    "question": "Питання, що цiкавить"
+  },
+  "home": {
+    "welcome": "Ласкаво просимо!"
+  },
+  "services_all": "Усi послуги",
+  "clients_title": "Наши клiєнти",
+  "about_title": "Про компанiю",
+  "services_title": "Послуги",
+  "licences_title": "Лiцензiя",
+  "partners__title": "Партнери",
+  "objects__title": "Об'єкти",
+  "contacts": {
+    "address": "Юридична адреса",
+    "phone_first": "З питань будівництва та реконструкції",
+    "phone_second": "З питань оренди техніки",
+    "phone_third": "З питань ремонту приміщень"
+  },
+  "service_alef_name": "Оренда будівельної техніки"
+}
